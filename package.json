@@ -1,0 +1,9 @@
+{
+  "name": "pirca-pedia",
+  "version": "0.0.0",
+  "description": "pircaPedia",
+  "main": "server.js",
+  "author": {
+    "name": ""
+  }
+}

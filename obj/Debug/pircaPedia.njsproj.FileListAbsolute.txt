@@ -1,0 +1,3 @@
+C:\Users\300al\source\repos\pircaPedia\obj\Debug\pircaPedia.njsprojAssemblyReference.cache
+C:\Users\300al\source\repos\pircaPedia\obj\Debug\pircaPedia.njsproj.CoreCompileInputs.cache
+C:\Users\300al\source\repos\pircaPedia\bin\Microsoft.NodejsTools.WebRole.dll
